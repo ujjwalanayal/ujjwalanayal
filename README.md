@@ -11,8 +11,6 @@
 
 📫 How to reach me nayalujjwala@gmail.com
 
-📄 Know about my experiences Resume
-
 ⚡ I am from Uttarakhand, India
 
 <h3 align="left">Languages and Tools:</h3>
