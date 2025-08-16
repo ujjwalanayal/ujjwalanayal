@@ -5,8 +5,6 @@
 
 👯 I’m looking to collaborate on Open Source Projects
 
-🤝 I’m looking for help with Learning New Technologies
-
 👨‍💻 All of my projects are available at https://github.com/ujjwalanayal
 
 💬 Ask me about Python, AI
@@ -15,7 +13,7 @@
 
 📄 Know about my experiences Resume
 
-⚡ Fun fact I am from Uttarakhand, India
+⚡ I am from Uttarakhand, India
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
